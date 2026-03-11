@@ -88,14 +88,6 @@ fun_fact: "2x hackathon winner — Finland & Vietnam 🥇"
 
 ---
 
-### 🐍 My Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kihku/kihku/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
 ### 🌼 Connect With Me
 
 <div align="center">
