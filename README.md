@@ -47,7 +47,7 @@ mood    : [########--] caffeinated
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kihku&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39C5BB&icon_color=86CECB&text_color=c9d1d9&ring_color=39C5BB" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kihku&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39C5BB&icon_color=86CECB&text_color=c9d1d9&ring_color=39C5BB&count_private=true&include_all_commits=true" height="155"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihku&layout=compact&hide_border=true&bg_color=0d1117&title_color=39C5BB&text_color=c9d1d9" height="155"/>
 
