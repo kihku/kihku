@@ -10,9 +10,8 @@
 
 ```yaml
 # whoami
-name    : Dung Pham (June)
+name    : June
 loc     : Helsinki, Finland
-role    : Cloud Software Trainee @ Kempower
 stack   : React / Node.js / Java / AWS
 status  : currently writing infra-as-code
 mood    : [########--] caffeinated
@@ -72,18 +71,3 @@ mood    : [########--] caffeinated
 
 </div>
 
----
-
-### ✦ find me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2339C5BB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pthdung/)
-[![GitHub](https://img.shields.io/badge/github-%2386CECB?style=flat-square&logo=github&logoColor=white)](https://github.com/kihku)
-[![Email](https://img.shields.io/badge/email-%2339C5BB?style=flat-square&logo=gmail&logoColor=white)](mailto:pthdung2903@gmail.com)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kihku.kihku&left_color=39C5BB&right_color=86CECB)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,14&height=100&section=footer" width="100%"/>
